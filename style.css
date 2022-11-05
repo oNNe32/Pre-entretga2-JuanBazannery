@@ -2,6 +2,7 @@ body {
     padding-top: 3rem;
     padding-bottom: 3rem;
     color: #5a5a5a;
+    background-color: #dfcfae;
 }
 
 
@@ -96,4 +97,7 @@ body {
 }
 .mt-10{
     margin-top: 100px; 
+}
+.navbar{
+    background-color: #13110d;
 }
